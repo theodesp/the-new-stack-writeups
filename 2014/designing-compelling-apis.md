@@ -27,7 +27,7 @@
 
 ---
 
-  About the Author
+### About the Author
 
   **Kirsten Hunter** is an unapologetic hacker and passionate advocate for the development community. My technical interests range from graph databases to cloud services, and my experience supporting and evangelizing REST APIs has given me a unique perspective on developer success. In my copious free time I’m a gamer, fantasy reader, and all around rabble-rouser. My current day job is API Ninja at 3scale, an API management company committed to making sure everyone can create successful, compelling APIs.
 
