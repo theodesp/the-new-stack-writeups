@@ -9,3 +9,5 @@
 * [The Emergence of Machine Learning](./emergence-machine-learning.md)
 * [The Psychotic Task of Measuring Developer Productivity](./the-psychotic-task-of-measuring-developer-productivity.md)
 * [Security Do’s and Don’ts for Early-Stage Companies](./security-dos-and-donts-for-early-stage-companies.md)
+* [The Cloud Has ‘Key’ Problems](./the-cloud-has-key-problems.md)
+
