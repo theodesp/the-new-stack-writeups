@@ -7,3 +7,5 @@
 * [The Rise of Microservices in the PaaS World](./rise-of-microservices.md)
 * [Shadow IT is a Red Herring](./shadow-it-red-herring.md)
 * [The Emergence of Machine Learning](./emergence-machine-learning.md)
+* [The Psychotic Task of Measuring Developer Productivity](./the-psychotic-task-of-measuring-developer-productivity.md)
+* [Security Do’s and Don’ts for Early-Stage Companies](./security-dos-and-donts-for-early-stage-companies.md)
