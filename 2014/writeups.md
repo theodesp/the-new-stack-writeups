@@ -11,4 +11,5 @@
 * [Security Do’s and Don’ts for Early-Stage Companies](./security-dos-and-donts-for-early-stage-companies.md)
 * [The Cloud Has ‘Key’ Problems](./the-cloud-has-key-problems.md)
 * [Building an iBeacon App](./building-an-ibeacon-app.md)
+* [The Changing Scope of Pricing Models for Cloud Services](./the-changing-scope-of-pricing-models-for-cloud-services.md)
 
