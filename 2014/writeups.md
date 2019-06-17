@@ -14,4 +14,4 @@
 * [The Changing Scope of Pricing Models for Cloud Services](./the-changing-scope-of-pricing-models-for-cloud-services.md)
 * [Six Core Capabilities of a DevOps Practice](./six-core-capabilities-of-a-devops-practice.md)
 * [Posting Private Keys in the Code Repository Hunting Grounds](./posting-private-keys-in-the-code-repository-hunting-grounds.md)
-
+* [Examples of Building a Node.js App With Docker](./examples-of-building-a-node-js-app-with-docker.md)
